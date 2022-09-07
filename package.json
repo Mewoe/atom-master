@@ -1,17 +1,17 @@
 {
-  "name": "IMBA89",
-  "theme": "IMBA89",
+  "name": "master888",
+  "theme": "master888",
   "version": "17.8.0",
-  "description": "IMBA89 สล็อตเว็บตรง wallet แจกเครดิตฟรี",
+  "description": "master888 สล็อตเว็บตรง wallet แจกเครดิตฟรี",
   "keywords": [
-    "IMBA89",
-    "IMBA89 ทางเข้า",
-    "IMBA89 เครดิตฟรี",
-    "IMBA89 slot",
-    "IMBA89 สล็อต",
-    "IMBA89 wallet"
+    "master888",
+    "master888 ทางเข้า",
+    "master888 เครดิตฟรี",
+    "master888 slot",
+    "master888 สล็อต",
+    "master888 wallet"
   ],
-  "repository": "https://github.com/slot678/IMBA89",
+  "repository": "https://github.com/Mewoe/atom-master",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
